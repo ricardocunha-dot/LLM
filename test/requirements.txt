@@ -1,0 +1,6 @@
+requests
+openai
+langchain
+langchain-openai
+langchain-community
+pymongo
